@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software Development** 🎮🕹️👾
 
-- 📝 Checkout My Blog [danlin.pages.dev/](danlin.pages.dev/)
+- 📝 Checkout My Blog [https://danlin.pages.dev/](https://danlin.pages.dev/)
 
 - ⚡ Fun fact: **10 years living in NYC and 11 years lived in China**
 
