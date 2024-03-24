@@ -46,4 +46,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qrran&show_icons=true&locale=en" alt="qrran" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qrran&" alt="qrran" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qrran&" alt="qrran" width="500" height="150" /></p>
