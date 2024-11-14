@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, this is Dan Lin 👩🏻‍💻</h2>
 <h3 align="center">🤍 Nice to meet you ˶˃ ᵕ ˂˶</h3>
 
-- 🌱 I’m currently studying at Columbia University 🎮🕹️👾
+- 🌱 I’m currently studying at Columbia University
 
-- 📝 Checkout My Blog [https://danlin.pages.dev/](https://danlin.pages.dev/)
+- 📝 Checkout [My Blog](https://danlin.pages.dev/)
 
 - ⚡ Fun fact: My MBTI is ENFJ
 
