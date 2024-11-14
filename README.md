@@ -1,27 +1,25 @@
 <h2 align="center">Hi 👋, this is Dan Lin 👩🏻‍💻</h2>
 <h3 align="center">🤍 Nice to meet you ˶˃ ᵕ ˂˶</h3>
 
-- 🌱 I’m currently learning **Software Development** 🎮🕹️👾
+- 🌱 I’m currently studying at Columbia University 🎮🕹️👾
 
 - 📝 Checkout My Blog [https://danlin.pages.dev/](https://danlin.pages.dev/)
 
-- ⚡ Fun fact: **10 years living in NYC and 11 years lived in China**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/danliinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danliinn" height="30" width="40" /></a>&nbsp; danliinn
-</p>
+- ⚡ Fun fact: My MBTI is ENFJ
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=sharp)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -43,6 +41,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="20" height="20"/></a>Figma
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/danliinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danliinn" height="30" width="40" /></a>&nbsp; danliinn
+</p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qrran&show_icons=true&locale=en" alt="qrran" /></p> -->
 
