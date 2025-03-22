@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying at Columbia University
 
-- 📝 Checkout [My Blog](https://danlin.pages.dev/)
+- 📝 Checkout [My Blog](https://qrran.github.io/)
 
 - ⚡ Fun fact: My MBTI is ENFJ
 
